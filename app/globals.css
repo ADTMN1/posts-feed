@@ -10,9 +10,10 @@ html {
 
 body {
   margin: 0;
-  background-color: #363234;
+  background: linear-gradient(135deg, #ac4d7c, #0a94b0, #ac4d7c);
   color: #eee7ea;
 }
+
 
 ul {
   list-style: none;
